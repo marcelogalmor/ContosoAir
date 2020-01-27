@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/marcelogm16/Parts%20Unlimited/_apis/build/status/marcelogalmor.ContosoAir?branchName=master)](https://dev.azure.com/marcelogm16/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
 
 
 # Microsoft.Github CI Demo
